@@ -50,6 +50,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CalculationLogic.cs" />
     <Compile Include="Models\Constants.cs" />
     <Compile Include="Models\DoubleMatrix.cs" />
     <Compile Include="Models\DoubleVector.cs" />
